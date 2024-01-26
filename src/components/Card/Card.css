@@ -5,11 +5,29 @@
     box-shadow: 4px 4px white;
     text-align: center;
   }
+
+  .card:hover{
+    cursor: pointer;
+  }
+  .title {
+    padding-left: 3px;
+    border-left: 8px solid #12CDD4;
+  }
   
-  .card > h2 {
-    font-size: 32px;
+  .title > h2 {
+    font-size: 38px;
+    color: #E1DACE;
   }
   
   .card > img {
     border-radius: 10px;
+  }
+
+  .tagsList{
+    display: flex;
+    justify-content: center;
+    gap:8px;
+    width: 20vw;
+    flex-wrap: wrap;
+    margin-bottom: 40px;
   }

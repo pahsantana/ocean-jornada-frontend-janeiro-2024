@@ -4,9 +4,7 @@ function Card(){
     return (
         <>
             <div className="card">
-                <div className="title">
-                    <h2>Rick Sanchez</h2>
-                </div>
+                <h2>Rick Sanchez</h2>
                 <div className="tagsList">
                     <Tag content="Status: Vivo"/>
                     <Tag content="Espécie: Humana"/>

@@ -4,19 +4,13 @@
     border-radius: 10px;
     box-shadow: 4px 4px white;
     text-align: center;
-  }
-
-  .card:hover{
     cursor: pointer;
-  }
-  .title {
-    padding-left: 3px;
-    border-left: 8px solid #12CDD4;
   }
   
   .title > h2 {
     font-size: 38px;
     color: #E1DACE;
+    border-left: 6px solid #A9D3E9
   }
   
   .card > img {

@@ -5,7 +5,7 @@ function Card(){
         <>
             <div className="card">
                 <h2>Rick Sanchez</h2>
-                <div className="tagsList">
+                <div className="tags">
                     <Tag content="Status: Vivo"/>
                     <Tag content="Espécie: Humana"/>
                     <Tag content="Origem: Terra C-137"/>

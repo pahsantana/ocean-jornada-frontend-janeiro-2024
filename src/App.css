@@ -2,9 +2,9 @@ body{
   background-color: #242424;
 }
 
-.cardsList{
+/* .cardsList{
   display: flex;
   justify-content: center;
   gap: 64px;
   flex-wrap: wrap;
-}
+} */

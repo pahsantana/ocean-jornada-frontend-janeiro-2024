@@ -16,7 +16,7 @@ function App() {
   }
   return (
     <>
-      <div className="cardsList">
+      <div className="cards">
         <Card item={item1}/>
         <Card item={item2}/>
         <Card item={item3}/>
